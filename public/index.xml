@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horcruxes</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Horcruxes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;hello&#34;&gt;Hello!&lt;/h2&gt;&#xA;&lt;p&gt;My name is Thomas. I like all things DevOps. This is where I will be exposing my thoughts and findings through this journey.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

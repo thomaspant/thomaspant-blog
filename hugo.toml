@@ -1,0 +1,52 @@
+#baseURL = '/home/thomaspant/playground/hugo/nightfall'
+baseURL = 'thomaspant.github.io'
+languageCode = 'en-us'
+title = 'Horcruxes'
+theme = 'nightfall'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "blog"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+user = "thomaspant"
+hostname = "DevOps"
+
+  [params.author]
+    name = "thomaspant"  # Website and RSS feed author
+    email = ""  # RSS feed email address
+    avatar = "/avatars/avatar-nobg.png"
+    avatarSize = "size-m"
+    avatarFirst = false
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/thomaspant"
+target = "_blank"
+icon = "fa-brands fa-github"
+aria = "GitHub Profile"
+
+[[params.social]]
+key = 1
+name = "linkedin"
+icon = "fa-brands fa-linkedin"
+url = "https://www.linkedin.com/in/thomas-panteleakos/"
+aria = "LinkedIn Profile"
+
+[params.styles]
+color = "orange"
