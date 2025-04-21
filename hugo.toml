@@ -50,3 +50,7 @@ aria = "LinkedIn Profile"
 
 [params.styles]
 color = "orange"
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
