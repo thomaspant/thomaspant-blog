@@ -1,5 +1,4 @@
-#baseURL = '/home/thomaspant/playground/hugo/nightfall'
-baseURL = 'thomaspant.github.io'
+baseURL = 'https://thomaspant.github.io/thomaspant-blog/'
 languageCode = 'en-us'
 title = 'Horcruxes'
 theme = 'nightfall'
