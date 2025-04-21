@@ -26,7 +26,7 @@ hostname = "DevOps"
   [params.author]
     name = "thomaspant"  # Website and RSS feed author
     email = ""  # RSS feed email address
-    avatar = "/avatars/avatar-nobg.png"
+    avatar = "/images/avatar-nobg.png"
     avatarSize = "size-m"
     avatarFirst = false
 
