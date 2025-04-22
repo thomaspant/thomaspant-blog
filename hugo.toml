@@ -1,4 +1,4 @@
-baseURL = 'https://thomaspant.github.io/thomaspant-blog/'
+baseURL = 'https://thomaspant.github.io/'
 languageCode = 'en-us'
 title = 'Horcruxes'
 theme = 'nightfall'
